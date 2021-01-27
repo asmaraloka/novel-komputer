@@ -1,12 +1,14 @@
 # Komputer
 
-## Tujuan
-
-Memperkenalkan pembaca hal-hal yang menarik tentang komputer.
+Sebuah novel yang memperkenalkan pembaca hal-hal menarik tentang komputer.
 
 ## Genre
 
 Misteri, fiksi ilmiah.
+
+## Latar
+
+Perbatasan Kalimantan Barat dan Sarawak, Malaysia.
 
 ## Sinopsis
 
@@ -17,16 +19,16 @@ Cerita fiksi ini mengisahkan tentang seorang Egg yang telah  menjadi _hikikomori
 ## Penokohan
 
 - Protagonis:
-  - Egg (si aku): seorang _hikikomori_ yang suka berkomputer ria
-  - Isha: seorang senator bijak yang mati dengan janggal
+  - Egg (si aku): seorang _hikikomori_ yang suka merenung dan berkomputer ria
+  - Isha: seorang senator dari negara tetangga bijak yang mati dengan janggal
   - Asse: seorang penyuka misteri yang selalu membawa-bawa surya kanta di saku jas tebalnya
 - Antagonis:
   - Lee: mantan anggota perwira yang pikirannya sulit ditebak; orang pertama yang telah mengetahui kebenaran tentang pembunuhan Isha
   - Ara: seorang kawan canggung yang suka bercanda kelewatan; pelaku pembunuhan Isha
 - Tritagonis:
-  - Karin: si pemurung sahabat terdekat Isha yang tidak mengetahui bahwa dirinya terlibat dalam tindakan kriminal Ara
+  - Karin: sahabat terdekat Isha yang tidak mengetahui bahwa dirinya telah terlibat dalam tindakan kriminal Ara
   - Patricia: pelanggan tua penyuka kasus pembunuhan yang sering melontarkan komentar-komentar tidak bermoral di dalam setiap kasus yang melibatkannya
-  - Rei: seorang kepala kafetaria, saudara sepersusuan Isha dan kawan lama Lee yang membantu menyingkap misteri kematian Isha
+  - Rei: pemilik kedai teh di Sarawak, saudara sepersusuan Isha dan kawan lama Lee yang membantu menyingkap misteri kematian Isha
   - Bert: pria tunangan Asse yang memberikan Lee bantuan penelitian laboratorium
 
 ## Gagasan Cerita
@@ -66,7 +68,7 @@ Cerita fiksi ini mengisahkan tentang seorang Egg yang telah  menjadi _hikikomori
    2. Lee tidak berhasil bertemu Egg di hari perkabungan Isha, tetapi mengetahui bahwa Egg telah berada di ruangan yang sama dengan Lee saat itu.
 6. Asse diam-diam sengaja mengekspos fakta bahwa seorang pegawai di kafetaria adalah saudara sepersusuan Isha.
    1. Asse menyamar beberapa kali untuk memandu Egg mengumpulkan informasi yang sulit didapatkannya dengan memanfaatkan kecerdasan artifisial.
-   2. Egg pergi ke selatan untuk mengusut masa kecil Isha yang sebenarnya dan terkejut melihat Asse tengah bermalam di rumah salah satu kerabat jauh Isha.
+   2. Egg pergi ke selatan untuk mengusut masa kecil Isha yang sebenarnya dan terkejut melihat Asse tengah bermalam di rumah salah satu kerabat jauh Isha di Sarawak.
    3. Asse mengungkapkan tentang seorang anak di dalam sebuah bingkai foto dan penyakit turunannya kepada Egg.
 7. Ara menjebak Asse dengan berdiskusi di bawah hujan.
    1. Egg memohon penyelamatan dirinya kepada Ara sebagai tersangka.
@@ -78,7 +80,8 @@ Cerita fiksi ini mengisahkan tentang seorang Egg yang telah  menjadi _hikikomori
    1. Rei dihadirkan Asse untuk mengungkapkan sebuah fakta penentu persidangan.
    2. Egg berhasil menjatuhkan Ara di hadapan hakim sehingga Ara menjadi terdakwa.
 10. Ara mengakui segala perbuatannya.
-    1. Pengungkapan tentang Karin yang tidak tahu-menahu tentang penyakit turunan Isha.
-    2. Pengungkapan tentang Ara yang memiliki racun tak berwarna dan berbau.
-    3. Pengungkapan tentang Ara yang cemburu kepada Egg di hari ulang tahun Egg.
-    4. Pengungkapan Rei tentang Isha yang tidak pernah tertawa lepas kecuali di hadapan Ara dan hadiah dari Isha atas pertunangan Egg dengan Karin.
+    1. Pengungkapan Karin yang tidak tahu-menahu tentang penyakit turunan Isha.
+    2. Pengungkapan Ara tentang sepotong cokelat.
+    3. Pengungkapan Ara yang dendam kepada Isha sebagai keturunan asing yang menjadi senator di Kalimantan Barat.
+    4. Pengungkapan Rei tentang Isha yang tidak pernah tertawa lepas kecuali di hadapan Ara dan hadiah kecil dari Isha atas pertunangan Egg dengan Karin.
+    5. Pengungkapan Lee tentang ketahuannya atas perbuatan Ara.
