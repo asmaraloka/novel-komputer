@@ -1,6 +1,6 @@
 # Komputer
 
-Sebuah novel yang memperkenalkan pembaca hal-hal menarik tentang komputer.
+Sebuah novel yang memperkenalkan pembaca hal-hal menarik tentang komputer, terutama bagaimana penggunaan komputer dewasa ini untuk menyelesaikan problem-problem di kehidupan nyata.
 
 ## Genre
 
@@ -8,7 +8,7 @@ Misteri, fiksi ilmiah.
 
 ## Sinopsis
 
-Cerita fiksi ini mengisahkan tentang seorang Egg yang telah  menjadi _hikikomori_ selama lima tahun semenjak kematian sahabat karibnya, Isha. Suatu hari, dia mengiyakan penetapan sebuah janji. Dari pertemuan itu, dia bertekad untuk menyingkap fakta kematian Isha dengan wawasan dan pengetahuannya di bidang komputer.
+Cerita fiksi ini mengisahkan tentang seorang Egg yang telah menjadi _hikikomori_ selama lima tahun semenjak kematian sahabat karibnya, Isha. Suatu hari, dia mengiyakan penetapan sebuah janji. Dari pertemuan itu, dia bertekad untuk menyingkap fakta kematian Isha dengan wawasan dan pengetahuannya di bidang komputer.
 
 ## Latar
 
@@ -17,12 +17,12 @@ Perbatasan Kalimantan Barat dan Sarawak, Malaysia. Rujukan:
 - [MIGRASI PENDUDUK DAN IMPLIKASINYA TERHADAP HANKAM DI WILAYAH PERBATASAN KALBAR-SERAWAK, MALAYSIA](https://media.neliti.com/media/publications/4702-ID-migrasi-penduduk-dan-implikasinya-terhadap-hankam-di-wilayah-perbatasan-kalbar-s.pdf)
 - [Kalimantan Barat sebagai "Daerah Perbatasan": Sebuah Tinjauan Demografi-Politik](https://simposiumjai.ui.ac.id/wp-content/uploads/20/2020/03/1.1.1-Riwanto-Tirtosudarmo.pdf)
 
-**Peringatan keras: setiap informasi di bawah ini mengandung spoiler.**
+**Peringatan keras: setiap informasi di bawah ini mengandung _spoiler_.**
 
 ## Penokohan
 
 - Protagonis:
-  - Egg (si aku): seorang _hikikomori_ yang suka merenung dan berkomputer ria
+  - Egg: seorang _hikikomori_ yang suka merenung dan berkomputer ria
   - Isha: seorang senator bijak dari negara tetangga yang mati bunuh diri
   - Asse: seorang penyuka misteri yang selalu membawa-bawa surya kanta di saku jas tebalnya
 - Antagonis:
