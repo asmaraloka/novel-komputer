@@ -26,7 +26,7 @@ Perbatasan Kalimantan Barat dan Sarawak, Malaysia. Rujukan:
   - Isha: seorang senator bijak dari negara tetangga yang mati bunuh diri
   - Asse: seorang penyuka misteri yang selalu membawa-bawa surya kanta di saku jas tebalnya
 - Antagonis:
-  - Lee: mantan anggota perwira yang pikirannya sulit ditebak; orang pertama yang telah mengetahui kebenaran tentang pembunuhan Isha
+  - Lee: mantan anggota perwira dengan kebiasaan mendesahnya dan pikirannya sulit ditebak; orang pertama yang telah mengetahui kebenaran tentang pembunuhan Isha
   - Ara: seorang kawan canggung yang suka bercanda kelewatan; pelaku pembunuhan Isha
 - Tritagonis:
   - Karin: sahabat terdekat Isha yang tidak mengetahui bahwa dirinya telah terlibat dalam tindakan kriminal Ara
