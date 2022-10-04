@@ -23,20 +23,21 @@ Perbatasan Kalimantan Barat dan Sarawak, Malaysia. Rujukan:
 
 - Protagonis:
   - Egg: seorang _hikikomori_ yang suka merenung dan berkomputer ria
-  - Isha: seorang senator bijak dari negara tetangga yang mati bunuh diri
+  - Isha: seorang senator bijak dari negara tetangga yang mati membunuh (karakter) dirinya sendiri; namun sebetulnya dia tetap hidup sebagai orang lain, membantu teman-temannya menyingkap misteri terbunuhnya dirinya
   - Asse: seorang penyuka misteri yang selalu membawa-bawa surya kanta di saku jas tebalnya
 - Antagonis:
-  - Lee: mantan anggota perwira dengan kebiasaan mendesahnya dan pikirannya sulit ditebak; orang pertama yang telah mengetahui kebenaran tentang pembunuhan Isha
-  - Ara: seorang kawan canggung yang suka bercanda kelewatan; pelaku pembunuhan Isha
+  - Lee: mantan anggota perwira dengan kebiasaan mendesahnya dan pikirannya sulit ditebak; orang yang tidak menyadari bahwa dirinya membantu pelaku pembunuhan Isha; seseorang yang baru saja lumpuh dan kurang baik dalam mengingat
+  - Ara: seorang kawan canggung yang suka bercanda kelewatan; orang pertama yang telah mengetahui kebenaran tentang pembunuhan Isha
 - Tritagonis:
   - Karin: sahabat terdekat Isha yang tidak mengetahui bahwa dirinya telah terlibat dalam tindakan kriminal Ara
   - Patricia: pelanggan tua penyuka kasus pembunuhan yang sering melontarkan komentar-komentar tidak bermoral di dalam setiap kasus yang melibatkannya
   - Rei: pemilik kedai teh di Sarawak, saudara sepersusuan Isha dan kawan lama Lee yang membantu menyingkap misteri kematian Isha
   - Bert: pria tunangan Asse yang memberikan Lee bantuan penelitian laboratorium
 
-## Gagasan Cerita
+## Gagasan
 
 - Ihwal komputasi dan komunikasi
+  - Bagaimana cara berpikir komputasi?
   - Bagaimana hubungan manusia dan komputer? Apa saja yang bisa dilakukan dengan komputer? Rujukan: <https://sites.google.com/site/liptonyunz/home/reason-of-why-people-use-computer>
   - Bagaimana komputer saling berkomunikasi? Bagaimana internet bekerja? Rujukan: <https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7>
   - Apa yang membuat komputer itu komputer? Rujukan: <https://www.youtube.com/watch?v=mCq8-xTH7jA>
@@ -51,7 +52,7 @@ Perbatasan Kalimantan Barat dan Sarawak, Malaysia. Rujukan:
   - Bagaimana mempersiapkan diri di bidang TI? Rujukan: diagram ikigai(?)
   - Bagaimana cara memanusiakan komputer?
 
-## Kerangka Cerita
+## Kerangka
 
 1. Egg mengenang pertemuan terakhir dengan Isha di hari ulang tahun Egg.
    1. Egg menulis catatan renungan tentang cara orang-orang modern berkomunikasi melalui ponsel dan internet.
@@ -64,7 +65,7 @@ Perbatasan Kalimantan Barat dan Sarawak, Malaysia. Rujukan:
    2. Egg menggali perkebunan peninggalan kakek Isha.
    3. Egg melakukan analisis kecil.
 4. Lee menerima pesan kematian Isha sepulang dari pelayaran.
-   1. Lee tidak sengaja bertemu dengan seorang paman yang familiar sedang memeriksa ponselnya.
+   1. Lee tidak sengaja bertemu dengan seorang gadis sebaya dengan Isha berjualan koran.
    2. Lee sedikit demi sedikit mulai kehilangan memoarnya bersama Isha.
 5. Lee mengirimkan pesan ancaman publik kepada Egg untuk mengelabuhi si pelaku.
    1. Lee menyadari barang-barang beraroma laut di kamar Isha yang bersih dari catatan riwayat apapun termasuk sidik jari dan darah.
@@ -88,3 +89,9 @@ Perbatasan Kalimantan Barat dan Sarawak, Malaysia. Rujukan:
     3. Pengungkapan Ara yang dendam kepada Isha sebagai keturunan asing yang menjadi senator di Kalimantan Barat.
     4. Pengungkapan Rei tentang Isha yang tidak pernah tertawa lepas kecuali di hadapan Ara dan hadiah kecil dari Isha atas pertunangan Egg dengan Karin.
     5. Pengungkapan Lee tentang ketahuannya atas perbuatan Ara.
+
+## Amanat
+
+Teruslah bergerak maka kita akan hidup. Rujukan:
+
+- https://www.kompasiana.com/isursuryati3843/621b6d4d3179495851210fe2/sibuklah-agar-kamu-tetap-hidup-belajar-dari-filosofi-ikan-salmon
